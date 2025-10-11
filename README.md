@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ayush
 
-🎓 I'm a B.Tech 3rd year Computer Science student passionate about building smart and user-friendly software.
+🎓 I'm a B.Tech 4th year Computer Science student passionate about building smart and user-friendly software.
 
 ### 💻 Tech Stack & Interests:
 - 🌐 Web Development: PHP Laravel, HTML, CSS, JavaScript
